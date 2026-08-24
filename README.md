@@ -103,9 +103,8 @@ GitHub Pages can host this project directly from the repository.
 
 After GitHub finishes publishing, the site will be available at:
 
-```text
-https://devanshi-08.github.io/acmw-ai-quick-quiz/
-```
+[https://devanshi-08.github.io/acmw-ai-quick-quiz/]
+
 
 ## Accessibility notes
 
